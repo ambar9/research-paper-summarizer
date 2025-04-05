@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![App UI](assets/summarizer_ui.png)
+![App UI](assets/UI_image.png)
 
 This project is a streamlined **LLM-based web application** that allows users to generate summaries of influential AI research papers in different styles and lengths. Built with **Streamlit**, **LangChain**, and **OpenAI’s GPT-4**, it delivers a flexible summarization interface for students, professionals, and researchers.
 
